@@ -1,4 +1,4 @@
-// 백준 1926 그림
+// 백준 2667 단지번호붙이기
 const fs = require('fs');
 const input = fs.readFileSync('./dev/stdin').toString().trim().split('\n');
 
